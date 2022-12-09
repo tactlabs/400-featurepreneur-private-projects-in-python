@@ -324,18 +324,276 @@ Projects:
 
 163. https://github.com/tactlabs/fruits-cart
 
-164.
+164. https://github.com/tactlabs/card-game-express-socket
 
-165.
+165. https://github.com/tactlabs/friendship-meter-frontend
 
-166.
+166. https://github.com/tactlabs/csv-to-parquet
 
-167.
+167. https://github.com/tactlabs/zipcode-collector
 
-168.
+168. https://github.com/tactlabs/feat-wish-list
 
-169.
+169. https://github.com/tactlabs/esplovar
 
-170.
+170. https://github.com/tactlabs/spark-industrial-scenarios
+
+171. https://github.com/tactlabs/fast-api-file-uploader
+
+172. https://github.com/tactlabs/download-instagram-pics-api
+
+173. https://github.com/tactlabs/reverser-deployment
+
+174. https://github.com/tactlabs/spell-checker-streamlit
+
+175. https://github.com/tactlabs/dvcs
+
+176. https://github.com/tactlabs/chromatuis-frontend
+
+177. https://github.com/tactlabs/handwriting-model
+
+178. https://github.com/tactlabs/thamizhai
+
+179. https://github.com/tactlabs/aws-transcribe-boto3
+
+180. https://github.com/tactlabs/language-scoring
+
+181. https://github.com/tactlabs/learning-analytics-extension
+
+182. https://github.com/tactlabs/data-to-mongodb
+
+183. https://github.com/tactlabs/tactdine
+
+184. https://github.com/tactlabs/k8s-flask-tutorial
+
+185. https://github.com/tactlabs/video-converter
+
+186. https://github.com/tactlabs/fastcups
+
+187. https://github.com/tactlabs/ml-influencer-content
+
+188. https://github.com/tactlabs/agnes-python
+
+189. https://github.com/tactlabs/fastapi-csp
+
+190. https://github.com/tactlabs/chatbot-rasa
+
+191. https://github.com/tactlabs/inet-banking
+
+192. https://github.com/tactlabs/word-predictor
+
+193. https://github.com/tactlabs/custom-report-sql
+
+194. https://github.com/tactlabs/website-down-report
+
+195. https://github.com/tactlabs/breakdown-sheet-turtle-score
+
+196. https://github.com/tactlabs/jenkins-sample
+
+197. https://github.com/tactlabs/guess-python
+
+198. https://github.com/tactlabs/guess-python
+
+199. https://github.com/tactlabs/regex-samples
+
+200. https://github.com/tactlabs/kafka-docker-sample
+
+201. https://github.com/tactlabs/housilon-object-store
+
+202. https://github.com/tactlabs/regexvil
+
+203. https://github.com/tactlabs/log-analysis-spark
+
+204. https://github.com/tactlabs/effort2cricket-notes
+
+205. https://github.com/tactlabs/spell-check-flask
+
+206. https://github.com/tactlabs/pyspark-vs-spark-benchmarking
+
+207. https://github.com/tactlabs/json2csv
+
+208. https://github.com/tactlabs/textblob-samples
+
+209. https://github.com/tactlabs/aws-sqs-python
+
+210. https://github.com/tactlabs/pdf-reader-python-tika
+
+211. https://github.com/tactlabs/python-cricket-beginner
+
+212. https://github.com/tactlabs/string-helper-scala
+
+213. https://github.com/tactlabs/smart-image-processor
+
+214. https://github.com/tactlabs/dockerized-flask-celery-rabbitmq-redis-socketio
+
+215. https://github.com/tactlabs/api-limit-redis-docker-compose-flask
+
+216. https://github.com/tactlabs/flask-celery-redis-ocr-docker
+
+217. https://github.com/tactlabs/flask-postgres-nginx-docker-compose-city
+
+218. https://github.com/tactlabs/spring-base-rest
+
+219. https://github.com/tactlabs/jsoup-scala-basic
+
+220. https://github.com/tactlabs/scala-postgres-select-city
+
+221. https://github.com/tactlabs/guess-bts
+
+222. https://github.com/tactlabs/dockerhub-image-push-jenkins
+
+223. https://github.com/tactlabs/scala-scenarios
+
+224. https://github.com/tactlabs/spring-base-rest-1
+
+225. https://github.com/tactlabs/housilon-chart-data-apis
+
+226. https://github.com/tactlabs/housilon-charts-html
+
+227. https://github.com/tactlabs/product-info
+
+228. https://github.com/tactlabs/juliavil
+
+229. https://github.com/tactlabs/auto-tester
+
+230. https://github.com/tactlabs/flask-image-ubuntu-custom
+
+231. https://github.com/tactlabs/comment-classifier
+
+232. https://github.com/tactlabs/pandas-multiprocessing
+
+233. https://github.com/tactlabs/libhunt-data-collection
+
+234. https://github.com/tactlabs/docker-compose-flask-math
+
+235. https://github.com/tactlabs/flinkvil
+
+236. https://github.com/tactlabs/planet-info-k8s
+
+237. https://github.com/tactlabs/vadivelu-meme-hive
+
+238. https://github.com/tactlabs/pyspark-examples 
+
+239. https://github.com/tactlabs/sqlite-crud-museum
+
+240. https://github.com/tactlabs/movie-info-k8s
+
+241. https://github.com/tactlabs/ml-model-maker
+
+242. https://github.com/tactlabs/flask-rest-api
+
+243. https://github.com/tactlabs/la-k8s
+
+244. https://github.com/tactlabs/fastapi-vadivelu-movies-prediction
+
+245. https://github.com/tactlabs/la-dev-prediction-rest-api
+
+246. https://github.com/tactlabs/product-image-classification-k8s
+
+248. https://github.com/tactlabs/repo-info-bot
+
+249. https://github.com/tactlabs/slack-time-bot
+
+250. https://github.com/tactlabs/mongo-crud
+
+251. https://github.com/tactlabs/password-generator-redis
+
+252. https://github.com/tactlabs/python-redis
+
+253. https://github.com/tactlabs/city-info-json-flask
+
+254. https://github.com/tactlabs/city-info-k8s
+
+255. https://github.com/tactlabs/city-info-k8s
+
+256. https://github.com/tactlabs/wedstll-chat-bot
+
+257. https://github.com/tactlabs/cloudwatch-logtest
+
+258. https://github.com/tactlabs/fast-api-basics
+
+259. https://github.com/tactlabs/docker-with-env
+
+260. https://github.com/tactlabs/geovil
+
+261. https://github.com/tactlabs/paper-trading-past
+
+262. https://github.com/tactlabs/env-reader-flask
+
+263. https://github.com/tactlabs/crud-evolution
+
+264. https://github.com/tactlabs/double-day
+
+265.
+
+266.
+
+267.
+
+268.
+
+269.
+
+270.
+
+271.
+
+272.
+
+273.
+
+274.
+
+275.
+
+276.
+
+277.
+
+278.
+
+279.
+
+280.
+
+281.
+
+282.
+
+283.
+
+284.
+
+285.
+
+286.
+
+287.
+
+288.
+
+289.
+
+290.
+
+291.
+
+292.
+
+293.
+
+294.
+
+295.
+
+296.
+
+297.
+
+298.
+
+299.
+
+300.
 
 
