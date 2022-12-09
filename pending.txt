@@ -1,6 +1,6 @@
 
 
-| 2     | Title                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](link)     | 
+| 2    | Title                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](link)     | 
 
 
 Title and link should be updated
@@ -34,7 +34,7 @@ Title and link should be updated
 
 16. 
 
-17. https://github.com/tactlabs/skills-recommender
+17.
 
 18. https://github.com/tactlabs/friendship-meter-nov-2022
 
