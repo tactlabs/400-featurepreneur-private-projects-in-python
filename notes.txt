@@ -596,4 +596,204 @@ Projects:
 
 300. https://github.com/tactlabs/controlled-cpu-util
 
+301. https://github.com/tactlabs/text-highlighting
+
+302. https://github.com/tactlabs/cpu-intensive-multiprocessing
+
+303. https://github.com/tactlabs/amazon-reviews-jaaabir
+
+304. https://github.com/tactlabs/question-generator
+
+305. https://github.com/tactlabs/spacieshare-image-clf
+
+306. https://github.com/tactlabs/pandas-examples
+
+307. https://github.com/tactlabs/spaceishare
+
+308. https://github.com/tactlabs/scripts-jina
+
+309. https://github.com/tactlabs/spaceishare-scoring-ui
+
+310. https://github.com/tactlabs/countdown
+
+311. https://github.com/tactlabs/countdown
+
+312. https://github.com/tactlabs/prettymetrics
+
+313. https://github.com/tactlabs/aws-bot
+
+314. https://github.com/tactlabs/image-size-finder-aws-s3
+
+315. https://github.com/tactlabs/text-summarization
+
+316. https://github.com/tactlabs/huggingface-examples
+
+317. https://github.com/tactlabs/retail-classifier
+
+318. https://github.com/tactlabs/amazon-product-collector
+
+319. https://github.com/tactlabs/tson
+
+320. https://github.com/tactlabs/model2app-2.0
+
+321. https://github.com/tactlabs/dask-examples
+
+322. https://github.com/tactlabs/target-scrape
+
+323. https://github.com/tactlabs/pdf-converter
+
+324. https://github.com/tactlabs/luigi-examples
+
+325. https://github.com/tactlabs/costco-scraping
+
+326. https://github.com/tactlabs/ml-statistics-concepts
+
+327. https://github.com/tactlabs/feeli
+
+328. https://github.com/tactlabs/django-poc
+
+329. https://github.com/tactlabs/tact-datasets
+
+330. https://github.com/tactlabs/interview-bot
+
+331. https://github.com/tactlabs/anomaly-detection
+
+332. https://github.com/tactlabs/hyperparameter-tuning-examples
+
+333. https://github.com/tactlabs/kafka-data-collection
+
+334. https://github.com/tactlabs/video-to-mp3-converter
+
+335. https://github.com/tactlabs/iris-streamlit
+
+336. https://github.com/tactlabs/gradio-samples
+
+337. https://github.com/tactlabs/mlflow-aws-server
+
+338. https://github.com/tactlabs/error-search-jina
+
+339. https://github.com/tactlabs/titanic-streamlit
+
+340. https://github.com/tactlabs/streamlit-samples
+
+341. https://github.com/tactlabs/company-guid
+
+342. https://github.com/tactlabs/diabetes-streamlit
+
+343. https://github.com/tactlabs/ml-samples
+
+344. https://github.com/tactlabs/error-search-elasticsearch
+
+345. https://github.com/tactlabs/error-archive-elasticsearch
+
+346. https://github.com/tactlabs/elastic-flask-search
+
+347. https://github.com/tactlabs/ml-journey
+
+348. https://github.com/tactlabs/ml-posts-app
+
+349. https://github.com/tactlabs/spaceishare-images
+
+350. https://github.com/tactlabs/image-processing-examples
+
+351. https://github.com/tactlabs/fastapi-poc
+
+352. https://github.com/tactlabs/tson-classic
+
+353. https://github.com/tactlabs/titanic-mlflow-api
+
+354. https://github.com/tactlabs/airtable-poc
+
+355. https://github.com/tactlabs/spacyvil
+
+356. https://github.com/tactlabs/basic-postgres-migration
+
+357. https://github.com/tactlabs/olympics-highchart-mongodb-crud
+
+358. https://github.com/tactlabs/text-annotation
+
+359. https://github.com/tactlabs/ner-tokens
+
+360. https://github.com/tactlabs/luigi-poc
+
+361. https://github.com/tactlabs/jina-ai-examples
+
+362. https://github.com/tactlabs/jsonl-converter
+
+363. https://github.com/tactlabs/ml-job-req
+
+364. https://github.com/tactlabs/marketing-content-classifcation
+
+365. https://github.com/tactlabs/hugobase-new
+
+366. https://github.com/tactlabs/hugobase
+
+367. https://github.com/tactlabs/employee-migration-etl-pyspark
+
+368. https://github.com/tactlabs/captcha-automation
+
+369. https://github.com/tactlabs/turtle-score
+
+370. https://github.com/tactlabs/client-api-logging
+
+371. https://github.com/tactlabs/la-microservices-external-app
+
+372. https://github.com/tactlabs/kickfurther-data-collection
+
+373. https://github.com/tactlabs/sis-image-quality-meter
+
+374. https://github.com/tactlabs/mlflow-poc
+
+375. https://github.com/tactlabs/tact-youth-trade
+
+376. https://github.com/tactlabs/notes-hugo-template
+
+377. https://github.com/tactlabs/image-scoring
+
+378. https://github.com/tactlabs/jsondeepdiff
+
+379. https://github.com/tactlabs/interview-scenarios
+
+380. https://github.com/tactlabs/json-compare
+
+381. https://github.com/tactlabs/job-techkey-highlighter
+
+382. https://github.com/tactlabs/neuvoo-mljob-scrape
+
+383. https://github.com/tactlabs/flix-lines
+
+384. https://github.com/tactlabs/flourish-chart
+
+385. https://github.com/tactlabs/naive-bayes-fastapi
+
+386. https://github.com/tactlabs/la-recommendation-csv
+
+387. https://github.com/tactlabs/la-articles-classifier
+
+388. https://github.com/tactlabs/basic-links-recommendation
+
+389. https://github.com/tactlabs/ml-algorithms
+
+390. https://github.com/tactlabs/postgres-db-migration
+
+391. https://github.com/tactlabs/kde-search-bot
+
+392. https://github.com/tactlabs/celery-mp3-converter-emailer
+
+393. https://github.com/tactlabs/fpr-github-rasabot
+
+394. https://github.com/tactlabs/fpr-github-rasabot
+
+395. https://github.com/tactlabs/aws-tags-scraper
+
+396. https://github.com/tactlabs/postgres-sqlalchemy-alembic
+
+397. https://github.com/tactlabs/ml-jobs
+
+398. https://github.com/tactlabs/neuvoo-scraper
+
+399. https://github.com/tactlabs/file-dropper
+
+400. https://github.com/tactlabs/pandas-chatbot
+
 
