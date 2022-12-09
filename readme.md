@@ -7,6 +7,7 @@
 | 2     | Beevier - Student Discounts on Food                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/beevier-flask)     | 
 | 3     | LinkedIn Info Meter                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/linkedIn-info-meter)     | 
 | 4     | Serkinti Wordbank                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/serkinti-wordbank)     | 
+| 5     | ml-influencer-board                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/ml-influencer-board)     | 
 
 
 
