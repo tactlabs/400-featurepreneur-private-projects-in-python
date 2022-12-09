@@ -3,19 +3,15 @@
 | 2     | Title                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](link)     | 
 
 
+Title and link should be updated
 
 
+-----------
 
 
-Projects:
+3. 
 
-1. https://github.com/tactlabs/wisher-yard
-
-2. https://github.com/tactlabs/beevier-flask
-
-3. https://github.com/tactlabs/linkedIn-info-meter
-
-4. https://github.com/tactlabs/serkinti-wordbank
+4. 
 
 5. https://github.com/tactlabs/ml-influencer-board
 
