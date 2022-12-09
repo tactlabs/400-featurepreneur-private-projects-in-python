@@ -6,19 +6,294 @@ Projects:
 
 2. https://github.com/tactlabs/beevier-flask
 
-3.
+3. https://github.com/tactlabs/linkedIn-info-meter
 
-4.
+4. https://github.com/tactlabs/serkinti-wordbank
 
-5.
+5. https://github.com/tactlabs/ml-influencer-board
 
-6.
+6. https://github.com/tactlabs/paypal-payment
 
-7.
+7. https://github.com/tactlabs/spin-wheel
 
-8.
+8. https://github.com/tactlabs/weekly-winners
 
-9.
+9. https://github.com/tactlabs/mongodb-crud-python
 
-10.
+10. https://github.com/tactlabs/db2parquet
 
+11. https://github.com/tactlabs/stripe-flask-app
+
+12. https://github.com/tactlabs/t-scraper
+
+13. https://github.com/tactlabs/custom-image-processing
+
+14. https://github.com/tactlabs/webhook-python
+
+15. https://github.com/tactlabs/learners-note
+
+16. https://github.com/tactlabs/RanCE
+
+17. https://github.com/tactlabs/skills-recommender
+
+18. https://github.com/tactlabs/friendship-meter-nov-2022
+
+19. https://github.com/tactlabs/student-hiring-prediction-flask
+
+20. https://github.com/tactlabs/friendship-meter-microservices
+
+21. https://github.com/tactlabs/is-down
+
+22. https://github.com/tactlabs/xavier-friendship-meter
+
+23. https://github.com/tactlabs/instagram-pic-scraper
+
+24. https://github.com/tactlabs/ml-flow-poc
+
+25. https://github.com/tactlabs/instagram-hashtag-scraper
+
+26. https://github.com/tactlabs/ec2instances.info
+
+27. https://github.com/tactlabs/interview-automation
+
+28. https://github.com/tactlabs/random-wheel-automation
+
+29. https://github.com/tactlabs/data-storage-basics
+
+30. https://github.com/tactlabs/fastapi-auth-jinja
+
+31. https://github.com/tactlabs/housilon-ml
+
+32. https://github.com/tactlabs/file-uploader-sharepoint-python
+
+33. https://github.com/tactlabs/sharepoint-examples
+
+34. https://github.com/tactlabs/macinfo
+
+35. https://github.com/tactlabs/random-challenge-emitter
+
+36. https://github.com/tactlabs/fastapi-student-score-prediction
+
+37. https://github.com/tactlabs/match-celebrity
+
+38. https://github.com/tactlabs/tact-candidate-score
+
+39. https://github.com/tactlabs/book-visual
+
+40. https://github.com/tactlabs/guess-kollywood
+
+41. https://github.com/tactlabs/python-chrome-har
+
+42. https://github.com/tactlabs/sqs-consumer
+
+43. https://github.com/tactlabs/ml-job-collector
+
+44. https://github.com/tactlabs/chromatuis-backend
+
+45. https://github.com/tactlabs/spin-time-wheel-probability
+
+46. https://github.com/tactlabs/cads-wheel
+
+47. https://github.com/tactlabs/gunicorn-flask-docker
+
+48. https://github.com/tactlabs/linkedin-info-collector
+
+49. https://github.com/tactlabs/jaya-friendship-meter
+
+50. https://github.com/tactlabs/article-recomender
+
+51. https://github.com/tactlabs/emailer-sendgrid
+
+52. https://github.com/tactlabs/sam-admirer-email
+
+53. https://github.com/tactlabs/ml-facts
+
+54. https://github.com/tactlabs/random-country-flask
+
+55. https://github.com/tactlabs/tact-vimeo-uploader
+
+56. https://github.com/tactlabs/resume-insights
+
+57. https://github.com/tactlabs/amazon-data-collector
+
+58. https://github.com/tactlabs/image-gallery-flask
+
+59. https://github.com/tactlabs/cars-data-collection
+
+60. https://github.com/tactlabs/image-resizer-2
+
+61. https://github.com/tactlabs/investor-info-collector
+
+62. https://github.com/tactlabs/flask-image-gallery
+
+63. https://github.com/tactlabs/youtube-video-downloader
+
+64. https://github.com/tactlabs/article-tagging
+
+65. https://github.com/tactlabs/randum
+
+66. https://github.com/tactlabs/random-friend
+
+67. https://github.com/tactlabs/feeli-streamlit
+
+68. https://github.com/tactlabs/franero
+
+69. https://github.com/tactlabs/sqlite-crud-ui
+
+70. https://github.com/tactlabs/fastapi-docker-compose
+
+71. https://github.com/tactlabs/tks-info-collector
+
+72. https://github.com/tactlabs/just-duck-it
+
+73. https://github.com/tactlabs/scapanza-s2
+
+74. https://github.com/tactlabs/sam2.0-secret-admirer
+
+75. https://github.com/tactlabs/handcricket
+
+75. https://github.com/tactlabs/tactbot
+
+77. https://github.com/tactlabs/everyday-history
+
+78. https://github.com/tactlabs/award-collector
+
+79. https://github.com/tactlabs/github-turtle-score-automation
+
+80. https://github.com/tactlabs/simple-flask-demo
+
+81. https://github.com/tactlabs/federated-learning-research
+
+82. https://github.com/tactlabs/reverser-app
+
+83. https://github.com/tactlabs/serkinti-ui
+
+84. https://github.com/tactlabs/tactsay
+
+85. https://github.com/tactlabs/flask-json-crud
+
+86. https://github.com/tactlabs/tact-geo
+
+87. https://github.com/tactlabs/simple-file-uploader
+
+88. https://github.com/tactlabs/mp3-converter-celery-flask
+
+89. https://github.com/tactlabs/nuvo
+
+90. https://github.com/tactlabs/simple-flask-xavier
+
+91. https://github.com/tactlabs/security-group-aws-ui
+
+92. https://github.com/tactlabs/la-partner-prediction
+
+93. https://github.com/tactlabs/scraper-k8s
+
+94. https://github.com/tactlabs/random-number-generator-eks
+
+95. https://github.com/tactlabs/s3-viewer
+
+96. https://github.com/tactlabs/site-status-checker
+
+97. https://github.com/tactlabs/file-dumper
+
+98. https://github.com/tactlabs/CNERgy
+
+99. https://github.com/tactlabs/article-collector
+
+100. https://github.com/tactlabs/kijiji-automation
+
+101. https://github.com/tactlabs/cloudformation-ec2-sg-automation
+
+102. https://github.com/tactlabs/chargetics
+
+103. https://github.com/tactlabs/random-postalcode-generator
+
+104. https://github.com/tactlabs/scrapy-basic
+
+105. https://github.com/tactlabs/selenium-samples
+
+106. https://github.com/tactlabs/cloudformation-ec2
+
+107. https://github.com/tactlabs/parquet-file-storage
+
+108. https://github.com/tactlabs/aws-sqs-tester
+
+109. https://github.com/tactlabs/pandarallel-poc
+
+110. https://github.com/tactlabs/sqlalchemy-postgres-init-tables
+
+111. https://github.com/tactlabs/aws-param-store-retriever
+
+112. https://github.com/tactlabs/whizlabs-collection
+
+113. https://github.com/tactlabs/k8s-playground
+
+114. https://github.com/tactlabs/stock-info-collector
+
+115. https://github.com/tactlabs/randomttc
+
+116. https://github.com/tactlabs/airflow-selenium
+
+117. https://github.com/tactlabs/hbr-text-collection
+
+118. https://github.com/tactlabs/simple-data-collector-k8s-flask
+
+119. https://github.com/tactlabs/docker-volume-text-processor
+
+120. https://github.com/tactlabs/reverser-frontend
+
+121. https://github.com/tactlabs/k8s-microservices-app
+
+122. https://github.com/tactlabs/parallel-data-merge
+
+123. https://github.com/tactlabs/learner-similarity
+
+124. https://github.com/tactlabs/tact-clipboard
+
+125. https://github.com/tactlabs/geolocation-ip-flask
+
+126.
+
+127.
+
+128.
+
+129.
+
+130. 
+
+131.
+
+132.
+
+133.
+
+134.
+
+135.
+
+136.
+
+137.
+
+138.
+
+139.
+
+140.
+
+141.
+
+142.
+
+143.
+
+144.
+
+145.
+
+146.
+
+147.
+
+150.
