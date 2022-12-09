@@ -524,76 +524,76 @@ Projects:
 
 264. https://github.com/tactlabs/double-day
 
-265.
+265. https://github.com/tactlabs/friendship-meter-rj
 
-266.
+266. https://github.com/tactlabs/tact-bee-frontend
 
-267.
+267. https://github.com/tactlabs/country-info
 
-268.
+268. https://github.com/tactlabs/tact-bee
 
-269.
+269. https://github.com/tactlabs/friendship-meter
 
-270.
+270. https://github.com/tactlabs/minio-poc
 
-271.
+271. https://github.com/tactlabs/har-file-parser
 
-272.
+272. https://github.com/tactlabs/paper-trading-past-depl
 
-273.
+273. https://github.com/tactlabs/pyspark-pandas-benchmark
 
-274.
+274. https://github.com/tactlabs/paper-trading-past-frontend
 
-275.
+275. https://github.com/tactlabs/chromatuis
 
-276.
+276. https://github.com/tactlabs/fastapi-examples
 
-277.
+277. https://github.com/tactlabs/pyspark-support-rest-api
 
-278.
+278. https://github.com/tactlabs/aws-textract-work
 
-279.
+279. https://github.com/tactlabs/k8s-data-collect-kube
 
-280.
+280. https://github.com/tactlabs/mongodb-python-crud
 
-281.
+281. https://github.com/tactlabs/model-pose-generator
 
-282.
+282. https://github.com/tactlabs/sqlite-crud
 
-283.
+283. https://github.com/tactlabs/titanic-prediction-fastapi
 
-284.
+284. https://github.com/tactlabs/hugo-notes-2022
 
-285.
+285. https://github.com/tactlabs/security-group-automation
 
-286.
+286. https://github.com/tactlabs/security-group-flask
 
-287.
+287. https://github.com/tactlabs/k8s-data-collector
 
-288.
+288. https://github.com/tactlabs/cpu-intensive-neighbour-scrapper
 
-289.
+289. https://github.com/tactlabs/craigslist-scraping
 
-290.
+290. https://github.com/tactlabs/heart-streamlit
 
-291.
+291. https://github.com/tactlabs/heart-gradio
 
-292.
+292. https://github.com/tactlabs/indoor-outdoor
 
-293.
+293. https://github.com/tactlabs/pose-identification
 
-294.
+294. https://github.com/tactlabs/mission-sis456
 
-295.
+295. https://github.com/tactlabs/s3-to-blob
 
-296.
+296. https://github.com/tactlabs/weekly-report
 
-297.
+297. https://github.com/tactlabs/azure-file-uploader
 
-298.
+298. https://github.com/tactlabs/azure-postgres-databricks
 
-299.
+299. https://github.com/tactlabs/Reaction-meter-df
 
-300.
+300. https://github.com/tactlabs/controlled-cpu-util
 
 
