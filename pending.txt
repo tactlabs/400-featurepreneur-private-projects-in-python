@@ -38,9 +38,9 @@ Title and link should be updated
 
 18. 
 
-19. https://github.com/tactlabs/student-hiring-prediction-flask
+19. 
 
-20. https://github.com/tactlabs/friendship-meter-microservices
+20. 
 
 21. https://github.com/tactlabs/is-down
 

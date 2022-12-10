@@ -21,6 +21,8 @@
 | 16    | RanCE                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/RanCE)     | 
 | 17     | skills-recommender                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/skills-recommender)     | 
 | 18    | friendship-meter-nov-2022                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/friendship-meter-nov-2022)     | 
+| 19    | student-hiring-prediction-flask                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/student-hiring-prediction-flask)     | 
+| 20    | friendship-meter-microservices                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/friendship-meter-microservices)     |
 
 
 
