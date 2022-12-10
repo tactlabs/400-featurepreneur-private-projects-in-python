@@ -43,7 +43,7 @@
 | 38    | tact-candidate-score                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/tact-candidate-score)     | 
 | 39    | book-visual                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/book-visual)     | 
 | 40    | guess-kollywood                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/guess-kollywood)     | 
- | python-chrome-har                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/python-chrome-har)     | 
+ | 41    | python-chrome-har                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/python-chrome-har)     |
 | 42    | sqs-consumer                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/sqs-consumer)     | 
 | 43    | ml-job-collector                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/ml-job-collector)     | 
 | 44    | chromatuis-backend                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/chromatuis-backend)     | 
