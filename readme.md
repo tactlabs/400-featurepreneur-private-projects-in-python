@@ -73,4 +73,13 @@
  | 68    | franero                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/franero)     | 
  | 69    | sqlite-crud-ui                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/sqlite-crud-ui)     | 
  | 70    | fastapi-docker-compose                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/fastapi-docker-compose)     | 
- 
+ 71    | tks-info-collector                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/tks-info-collector)     | 
+ | 72    | just-duck-it                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/just-duck-it)     | 
+ | 73    | scapanza-s2                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/scapanza-s2)     | 
+ | 74    | sam2.0-secret-admirer                            | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/sam2.0-secret-admirer)     | 
+ | 75    | handcricket                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/handcricket)     | 
+ | 76    | tactbot                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/tactbot)     | 
+ | 77    | everyday-history                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/everyday-history)     | 
+ | 78    | award-collector                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/award-collector)     | 
+ | 79    | github-turtle-score-automation                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/github-turtle-score-automation)     | 
+ | 80    | simple-flask-demo                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/simple-flask-demo)     | 
