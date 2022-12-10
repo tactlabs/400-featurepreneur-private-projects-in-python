@@ -18,7 +18,9 @@
 | 13   | custom-image-processing                      | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/custom-image-processing)     | 
 | 14   | webhook-python                         | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/webhook-python)     | 
 | 15   | learners-note                        | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/learners-note)     | 
-| 16     | skills-recommender                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/skills-recommender)     | 
+| 16    | RanCE                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/RanCE)     | 
+| 17     | skills-recommender                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/skills-recommender)     | 
+| 18    | friendship-meter-nov-2022                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/friendship-meter-nov-2022)     | 
 
 
 

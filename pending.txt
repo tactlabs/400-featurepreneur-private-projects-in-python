@@ -36,7 +36,7 @@ Title and link should be updated
 
 17.
 
-18. https://github.com/tactlabs/friendship-meter-nov-2022
+18. 
 
 19. https://github.com/tactlabs/student-hiring-prediction-flask
 
