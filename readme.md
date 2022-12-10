@@ -93,3 +93,13 @@
  | 88    | mp3-converter-celery-flask                            | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/mp3-converter-celery-flask)     | 
  | 89    | nuvo                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/nuvo)     | 
  | 90    | simple-flask-xavier                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/simple-flask-xavier)     | 
+ | 91    | security-group-aws-ui                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/security-group-aws-ui)     | 
+ | 92    | la-partner-prediction                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/la-partner-prediction)     | 
+ | 93    | scraper-k8s                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/scraper-k8s)     | 
+ | 94    | random-number-generator-eks                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/random-number-generator-eks)     | 
+ | 95    | s3-viewer                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/s3-viewer)     | 
+ | 96    | site-status-checker                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/site-status-checker)     | 
+ | 97    | file-dumper                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/file-dumper)     | 
+ | 98    | CNERgy                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/CNERgy)     | 
+ | 99    | article-collector                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/article-collector)     | 
+ | 100   | kijiji-automation                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/kijiji-automation)     | 
