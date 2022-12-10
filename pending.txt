@@ -188,55 +188,53 @@ Title and link should be updated
 
 99. 
 100. 
-101. https://github.com/tactlabs/cloudformation-ec2-sg-automation
+101. 
+102. 
 
-102. https://github.com/tactlabs/chargetics
+103. 
 
-103. https://github.com/tactlabs/random-postalcode-generator
+104. 
 
-104. https://github.com/tactlabs/scrapy-basic
+105. 
 
-105. https://github.com/tactlabs/selenium-samples
+106. 
 
-106. https://github.com/tactlabs/cloudformation-ec2
+107. 
 
-107. https://github.com/tactlabs/parquet-file-storage
+108. 
 
-108. https://github.com/tactlabs/aws-sqs-tester
+109. 
 
-109. https://github.com/tactlabs/pandarallel-poc
+110. 
 
-110. https://github.com/tactlabs/sqlalchemy-postgres-init-tables
+111. 
+112. 
 
-111. https://github.com/tactlabs/aws-param-store-retriever
+113. 
 
-112. https://github.com/tactlabs/whizlabs-collection
+114. 
 
-113. https://github.com/tactlabs/k8s-playground
+115. 
 
-114. https://github.com/tactlabs/stock-info-collector
+116. 
 
-115. https://github.com/tactlabs/randomttc
+117. 
 
-116. https://github.com/tactlabs/airflow-selenium
+118. 
 
-117. https://github.com/tactlabs/hbr-text-collection
+119. 
 
-118. https://github.com/tactlabs/simple-data-collector-k8s-flask
+120. 
 
-119. https://github.com/tactlabs/docker-volume-text-processor
+121. 
 
-120. https://github.com/tactlabs/reverser-frontend
+122. 
 
-121. https://github.com/tactlabs/k8s-microservices-app
+123. 
 
-122. https://github.com/tactlabs/parallel-data-merge
+124. 
 
-123. https://github.com/tactlabs/learner-similarity
-
-124. https://github.com/tactlabs/tact-clipboard
-
-125. https://github.com/tactlabs/geolocation-ip-flask
+125. 
 
 126. https://github.com/tactlabs/azure-parquet-downloader
 
