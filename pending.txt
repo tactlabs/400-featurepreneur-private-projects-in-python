@@ -152,25 +152,25 @@ Title and link should be updated
 
 80. 
 
-81. https://github.com/tactlabs/federated-learning-research
+81. 
 
-82. https://github.com/tactlabs/reverser-app
+82. 
 
-83. https://github.com/tactlabs/serkinti-ui
+83. 
 
-84. https://github.com/tactlabs/tactsay
+84. 
 
-85. https://github.com/tactlabs/flask-json-crud
+85. 
 
-86. https://github.com/tactlabs/tact-geo
+86. 
 
-87. https://github.com/tactlabs/simple-file-uploader
+87. 
 
-88. https://github.com/tactlabs/mp3-converter-celery-flask
+88. 
 
-89. https://github.com/tactlabs/nuvo
+89. 
 
-90. https://github.com/tactlabs/simple-flask-xavier
+90. 
 
 91. https://github.com/tactlabs/security-group-aws-ui
 

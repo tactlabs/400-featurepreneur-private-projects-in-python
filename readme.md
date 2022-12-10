@@ -83,3 +83,13 @@
  | 78    | award-collector                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/award-collector)     | 
  | 79    | github-turtle-score-automation                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/github-turtle-score-automation)     | 
  | 80    | simple-flask-demo                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/simple-flask-demo)     | 
+ | 81    | federated-learning-research                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/federated-learning-research)     | 
+ | 82    | reverser-app                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/reverser-app)     | 
+ | 83    | serkinti-ui                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/serkinti-ui)     | 
+ | 84    | tactsay                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/tactsay)     | 
+ | 85    | flask-json-crud                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/flask-json-crud)     | 
+ | 86    | tact-geo                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/tact-geo)     | 
+ | 87    | simple-file-uploader                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/simple-file-uploader)     | 
+ | 88    | mp3-converter-celery-flask                            | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/mp3-converter-celery-flask)     | 
+ | 89    | nuvo                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/nuvo)     | 
+ | 90    | simple-flask-xavier                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/simple-flask-xavier)     | 
