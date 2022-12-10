@@ -54,6 +54,27 @@
 | 49    | jaya-friendship-meter                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/jaya-friendship-meter)     | 
 | 50    | article-recomender                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/article-recomender)     | 
 
+ | 51    | emailer-sendgrid                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/emailer-sendgrid)     | 
+ | 52    | sam-admirer-email                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/sam-admirer-email)     | 
+ | 53    | ml-facts                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/ml-facts)     | 
+ | 54    | random-country-flask                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/random-country-flask)     | 
+ | 55    | tact-vimeo-uploader                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/tact-vimeo-uploader)     | 
+ | 56    | resume-insights                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/resume-insights)     | 
+ | 57    | amazon-data-collector                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/amazon-data-collector)     | 
+ | 58    | image-gallery-flask                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/image-gallery-flask)     | 
+ | 59    | cars-data-collection                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/cars-data-collection)     | 
+ | 60    | image-resizer-2                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/image-resizer-2)     | 
+ | 61    | investor-info-collector                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/investor-info-collector)     | 
+ | 62    | flask-image-gallery                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/flask-image-gallery)     | 
+ | 63    | youtube-video-downloader                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/youtube-video-downloader)     | 
+ | 64    | article-tagging                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/article-tagging)     | 
+ | 65    | randum                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/randum)     | 
+ | 66    | random-friend                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/random-friend)     | 
+ | 67    | feeli-streamlit                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/feeli-streamlit)     | 
+ | 68    | franero                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/franero)     | 
+ | 69    | sqlite-crud-ui                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/sqlite-crud-ui)     | 
+ | 70    | fastapi-docker-compose                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/fastapi-docker-compose)     | 
+
 
 
 

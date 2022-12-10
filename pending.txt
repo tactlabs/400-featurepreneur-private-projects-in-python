@@ -97,45 +97,40 @@ Title and link should be updated
 49. 
 50. 
 
-51. https://github.com/tactlabs/emailer-sendgrid
+51.
+52. 
 
-52. https://github.com/tactlabs/sam-admirer-email
+53. 
 
-53. https://github.com/tactlabs/ml-facts
+54. 
 
-54. https://github.com/tactlabs/random-country-flask
+55.
 
-55. https://github.com/tactlabs/tact-vimeo-uploader
+56. 
 
-56. https://github.com/tactlabs/resume-insights
+57. 
 
-57. https://github.com/tactlabs/amazon-data-collector
+58. 
 
-58. https://github.com/tactlabs/image-gallery-flask
+59. 
+60. 
+61. 
+62. 
 
-59. https://github.com/tactlabs/cars-data-collection
+63. 
+64. 
 
-60. https://github.com/tactlabs/image-resizer-2
+65.
 
-61. https://github.com/tactlabs/investor-info-collector
+66.
 
-62. https://github.com/tactlabs/flask-image-gallery
+67. 
 
-63. https://github.com/tactlabs/youtube-video-downloader
+68. 
 
-64. https://github.com/tactlabs/article-tagging
+69. 
 
-65. https://github.com/tactlabs/randum
-
-66. https://github.com/tactlabs/random-friend
-
-67. https://github.com/tactlabs/feeli-streamlit
-
-68. https://github.com/tactlabs/franero
-
-69. https://github.com/tactlabs/sqlite-crud-ui
-
-70. https://github.com/tactlabs/fastapi-docker-compose
+70. 
 
 71. https://github.com/tactlabs/tks-info-collector
 
