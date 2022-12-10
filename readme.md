@@ -25,6 +25,14 @@
 | 20    | friendship-meter-microservices                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/friendship-meter-microservices)     |
 | 21    | is-down                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/is-down)     | 
 | 22    | xavier-friendship-meter                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/xavier-friendship-meter)    
+| instagram-pic-scraper                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/instagram-pic-scraper)     |
+| 24    | ml-flow-poc                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)]( https://github.com/tactlabs/ml-flow-poc)     | 
+| 25    | instagram-hashtag-scraper                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/instagram-hashtag-scraper)     | 
+| 26    | ec2instances.info                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/ec2instances.info)     | 
+| 27    | interview-automation                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/interview-automation)     | 
+| 28    | random-wheel-automation                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/random-wheel-automation)     | 
+| 29    | data-storage-basics                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/data-storage-basics)     | 
+| 30    | fastapi-auth-jinja                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/fastapi-auth-jinja)     | 
 
 
 

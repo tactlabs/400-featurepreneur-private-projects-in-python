@@ -46,21 +46,20 @@ Title and link should be updated
 
 22. 
 
-23. https://github.com/tactlabs/instagram-pic-scraper
+23. 
 
-24. https://github.com/tactlabs/ml-flow-poc
+24. 
+25.
 
-25. https://github.com/tactlabs/instagram-hashtag-scraper
+26. 
 
-26. https://github.com/tactlabs/ec2instances.info
+27. 
 
-27. https://github.com/tactlabs/interview-automation
+28. 
 
-28. https://github.com/tactlabs/random-wheel-automation
+29. 
 
-29. https://github.com/tactlabs/data-storage-basics
-
-30. https://github.com/tactlabs/fastapi-auth-jinja
+30. 
 
 31. https://github.com/tactlabs/housilon-ml
 
