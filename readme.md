@@ -33,7 +33,16 @@
 | 28    | random-wheel-automation                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/random-wheel-automation)     | 
 | 29    | data-storage-basics                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/data-storage-basics)     | 
 | 30    | fastapi-auth-jinja                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/fastapi-auth-jinja)     | 
-
+| 31    | housilon-ml                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/housilon-ml)     | 
+| 32    | file-uploader-sharepoint-python                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/file-uploader-sharepoint-python)     | 
+| 33    | sharepoint-examples                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/sharepoint-examples)     | 
+| 34    | macinfo                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/macinfo)     | 
+| 35    | random-challenge-emitter                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/random-challenge-emitter)     | 
+| 36    | fastapi-student-score-prediction                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)]( https://github.com/tactlabs/fastapi-student-score-prediction)     | 
+| 37    | match-celebrity                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/match-celebrity)     | 
+| 38    | tact-candidate-score                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/tact-candidate-score)     | 
+| 39    | book-visual                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/book-visual)     | 
+| 40    | guess-kollywood                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/guess-kollywood)     | 
 
 
 

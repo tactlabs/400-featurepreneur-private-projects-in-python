@@ -61,26 +61,23 @@ Title and link should be updated
 
 30. 
 
-31. https://github.com/tactlabs/housilon-ml
+31. 
 
-32. https://github.com/tactlabs/file-uploader-sharepoint-python
+32.
 
-33. https://github.com/tactlabs/sharepoint-examples
+33.
 
-34. https://github.com/tactlabs/macinfo
+34. 
 
-35. https://github.com/tactlabs/random-challenge-emitter
+35. 
 
-36. https://github.com/tactlabs/fastapi-student-score-prediction
+36. 
+37. 
+38. 
 
-37. https://github.com/tactlabs/match-celebrity
+39.
 
-38. https://github.com/tactlabs/tact-candidate-score
-
-39. https://github.com/tactlabs/book-visual
-
-40. https://github.com/tactlabs/guess-kollywood
-
+40. 
 41. https://github.com/tactlabs/python-chrome-har
 
 42. https://github.com/tactlabs/sqs-consumer
