@@ -42,9 +42,9 @@ Title and link should be updated
 
 20. 
 
-21. https://github.com/tactlabs/is-down
+21. 
 
-22. https://github.com/tactlabs/xavier-friendship-meter
+22. 
 
 23. https://github.com/tactlabs/instagram-pic-scraper
 

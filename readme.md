@@ -23,7 +23,8 @@
 | 18    | friendship-meter-nov-2022                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/friendship-meter-nov-2022)     | 
 | 19    | student-hiring-prediction-flask                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/student-hiring-prediction-flask)     | 
 | 20    | friendship-meter-microservices                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/friendship-meter-microservices)     |
-
+| 21    | is-down                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/is-down)     | 
+| 22    | xavier-friendship-meter                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/xavier-friendship-meter)    
 
 
 
