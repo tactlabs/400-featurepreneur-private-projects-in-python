@@ -372,41 +372,7 @@ Title and link should be updated
 
 200. 
 
-203. https://github.com/tactlabs/log-analysis-spark
 
-204. https://github.com/tactlabs/effort2cricket-notes
-
-205. https://github.com/tactlabs/spell-check-flask
-
-206. https://github.com/tactlabs/pyspark-vs-spark-benchmarking
-
-207. https://github.com/tactlabs/json2csv
-
-208. https://github.com/tactlabs/textblob-samples
-
-209. https://github.com/tactlabs/aws-sqs-python
-
-210. https://github.com/tactlabs/pdf-reader-python-tika
-
-211. https://github.com/tactlabs/python-cricket-beginner
-
-212. https://github.com/tactlabs/string-helper-scala
-
-213. https://github.com/tactlabs/smart-image-processor
-
-214. https://github.com/tactlabs/dockerized-flask-celery-rabbitmq-redis-socketio
-
-215. https://github.com/tactlabs/api-limit-redis-docker-compose-flask
-
-216. https://github.com/tactlabs/flask-celery-redis-ocr-docker
-
-217. https://github.com/tactlabs/flask-postgres-nginx-docker-compose-city
-
-218. https://github.com/tactlabs/spring-base-rest
-
-219. https://github.com/tactlabs/jsoup-scala-basic
-
-220. https://github.com/tactlabs/scala-postgres-select-city
 
 221. https://github.com/tactlabs/guess-bts
 
