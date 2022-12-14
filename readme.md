@@ -253,6 +253,18 @@
 | 248    | repo-info-bot                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/repo-info-bot)     | 
 | 249    | slack-time-bot                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/slack-time-bot)     | 
 | 250    | mongo-crud                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/mongo-crud)     | 
+| 251    | password-generator-redis                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/password-generator-redis)     | 
+| 252    | python-redis                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/python-redis)     | 
+| 253    | city-info-json-flask                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/city-info-json-flask)     | 
+| 254    | city-info-k8s                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/city-info-k8s)     | 
+| 255    | city-info-k8s                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/city-info-k8s)     | 
+| 256    | wedstll-chat-bot                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/wedstll-chat-bot)     | 
+| 257    | cloudwatch-logtest                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/cloudwatch-logtest)     | 
+| 258    | fast-api-basics                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/fast-api-basics)     | 
+| 259    | docker-with-env                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/docker-with-env)     | 
+| 260    | geovil                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/geovil)     | 
+
+
 
 
 
