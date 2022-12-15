@@ -305,3 +305,5 @@
 | 298    | azure-postgres-databricks                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/azure-postgres-databricks)     | 
 | 299    | Reaction-meter-df                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)]( https://github.com/tactlabs/Reaction-meter-df)     | 
 | 300    | controlled-cpu-util                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/controlled-cpu-util)     | 
+| 300    | controlled-cpu-util                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](linhttps://github.com/tactlabs/controlled-cpu-util)     | 
+add
