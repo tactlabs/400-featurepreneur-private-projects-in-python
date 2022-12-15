@@ -263,13 +263,45 @@
 | 258    | fast-api-basics                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/fast-api-basics)     | 
 | 259    | docker-with-env                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/docker-with-env)     | 
 | 260    | geovil                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/geovil)     | 
-
-
-
-
-
-
-
-
-
-
+| 261     | paper-trading-past                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/paper-trading-past)     | 
+| 262     | env-reader-flask                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)]( https://github.com/tactlabs/env-reader-flask)     | 
+| 263     | crud-evolution                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/crud-evolution)     | 
+| 264     | double-day                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/double-day)     | 
+| 265     | friendship-meter-rj                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/friendship-meter-rj)     | 
+| 266     | tact-bee-frontend                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/tact-bee-frontend)     | 
+| 267     | country-info                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/country-info)     | 
+| 268     | tact-bee                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/tact-bee)     | 
+| 269     | friendship-meter                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/friendship-meter)     | 
+| 270     | minio-poc                            | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/minio-poc)     | 
+| 271     | har-file-parse                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/har-file-parser)     | 
+| 272     | paper-trading-past-depl                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/paper-trading-past-depl)     | 
+| 273     | pyspark-pandas-benchmark                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/pyspark-pandas-benchmark)     |   | 
+| 272     | paper-trading-past-depl                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/paper-trading-past-depl)     | 
+| 273     | pyspark-pandas-benchmark                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/pyspark-pandas-benchmark)     | 
+| 274     | paper-trading-past-frontend                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/paper-trading-past-frontend)     | 
+| 275     | chromatuis                           | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/chromatuis)     | 
+| 276    | fastapi-examples                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/fastapi-examples)     | 
+| 277    | pyspark-support-rest-api)                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/pyspark-support-rest-api)     | 
+| 278     |aws-textract-work                           | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/aws-textract-work)     | 
+| 279     | k8s-data-collect-kube                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/k8s-data-collect-kube)     | 
+| 280     | mongodb-python-crud                            | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/mongodb-python-crud)     | 
+| 281     | model-pose-generator                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/model-pose-generator)     | 
+| 282     | sqlite-crud                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/sqlite-crud)     | 
+| 283     |titanic-prediction-fastapi                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/titanic-prediction-fastapi)     | 
+| 284     | hugo-notes-2022                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)]( https://github.com/tactlabs/hugo-notes-2022)     | 
+| 285     | security-group-automation                            | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/security-group-automation)     | 
+| 286     | security-group-flask                           | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/security-group-flask)     | 
+| 287     | k8s-data-collector                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/k8s-data-collector)     | 
+| 288     |cpu-intensive-neighbour-scrapper                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/cpu-intensive-neighbour-scrapper)     | 
+| 289     | craigslist-scraping                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/craigslist-scraping)     | 
+| 290     | heart-streamlit)                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/heart-streamlit)     | 
+| 291    | heart-gradio                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/heart-gradio)     | 
+| 292    | indoor-outdoor                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/indoor-outdoor)     | 
+| 293    | pose-identification)                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/pose-identification)     | 
+| 294    | mission-sis456                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/mission-sis456)     | 
+| 295    | s3-to-blob                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/s3-to-blob)     | 
+| 296    | weekly-report                             | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/weekly-report)     | 
+| 297    | azure-file-uploader                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/azure-file-uploader)     | 
+| 298    | azure-postgres-databricks                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/azure-postgres-databricks)     | 
+| 299    | Reaction-meter-df                               | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)]( https://github.com/tactlabs/Reaction-meter-df)     | 
+| 300    | controlled-cpu-util                              | [![](https://raw.githubusercontent.com/tactlabs/1/main/images/github.png)](https://github.com/tactlabs/controlled-cpu-util)     | 
